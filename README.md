@@ -1,4 +1,4 @@
 # Git-Demo
 <br>
-<hr>
-This is created to learn git 
+This is created to learn about git and git hub 
+
